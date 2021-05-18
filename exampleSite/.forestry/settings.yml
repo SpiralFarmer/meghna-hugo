@@ -52,8 +52,8 @@ sections:
 - type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
-  label: Configuration
+  path: Stuff
+  label: Howdy
   create: all
   match: "*.toml"
   new_doc_ext: toml
